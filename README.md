@@ -11,5 +11,7 @@ License
 =====================
 
 Copyright (c) 2014 Krzysztof Pachulski
+
 License: The MIT License (MIT)
+
 MIT License page: http://opensource.org/licenses/MIT
